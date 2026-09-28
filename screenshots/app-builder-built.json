@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Live Wallpaper Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 68,
+      "bodyTextHash": "2af0ed36a3cae75b3e474171b8ff88a53eea64d014ae7d3e80b4db1e76d631ff",
+      "bodyTextPrefix": "Live Wallpaper Studio Original anime characters. Live when you p",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Live Wallpaper Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 68,
+      "bodyTextHash": "2af0ed36a3cae75b3e474171b8ff88a53eea64d014ae7d3e80b4db1e76d631ff",
+      "bodyTextPrefix": "Live Wallpaper Studio Original anime characters. Live when you p",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
